@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1674643561 source:c:\glsl\projects\curves\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1674643898 source:c:\glsl\curves\curves\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1674758944 source:c:\glsl\curves\curves26.01.2023\curves26.01.2023\curves\main.cpp
+	<vector>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1674804403 source:c:\glsl\projects\_curves\curves27.01.2023\main.cpp
+	<vector>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1674926507 source:c:\glsl\curves\curves27.01.2023\curves27.01.2023\main.cpp
+	<vector>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<typeinfo>
+
+1675058592 source:c:\glsl\projects\_curves\curves30.01.2023\main.cpp
+	"Curves.h"
+	<vector>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<typeinfo>
+	<algorithm>
+
+1675059640 c:\glsl\projects\_curves\curves30.01.2023\curves.h
+
+1675060246 source:c:\glsl\projects\_curves\curves30.01.2023\curves.cpp
+	"Curves.h"
+	<cstdlib>
+	<iostream>
+	<cmath>
+
+1675152538 source:c:\glsl\projects\_curves\curves30.01.2023.2\main.cpp
+	"Curves.h"
+	"curvesdll\main.h"
+	<vector>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<memory>
+	<algorithm>
+
+1675152607 c:\glsl\projects\_curves\curves30.01.2023.2\curves.h
+
+1514140574 c:\glsl\projects\_curves\curves30.01.2023.2\curvesdll\main.h
+	<windows.h>
+
+1675070271 source:c:\glsl\projects\_curves\curves30.01.2023.2\curves.cpp
+	"Curves.h"
+	<cstdlib>
+	<iostream>
+	<cmath>
+
+1675160307 source:c:\glsl\projects\_curves\curves31.01.2023\main.cpp
+	"Curves.h"
+	"curvesdll\main.h"
+	<vector>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<memory>
+	<algorithm>
+
+1675152607 c:\glsl\projects\_curves\curves31.01.2023\curves.h
+
